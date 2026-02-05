@@ -4,3 +4,4 @@
 
 @docs/product-philosophy.md
 @docs/design-rules.md
+@docs/ui-ux-philosophy.md
